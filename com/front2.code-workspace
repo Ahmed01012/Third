@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:/projects/front2"
+		},
+		{
+			"path": "E:/projects/front1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front2"
+	}
+}
